@@ -46,6 +46,7 @@ function strike1(){
             divaddlist.appendChild(temp1);
             
             itm=document.getElementsByClassName("itm")
+            strike1();
         }
     }
 }
